@@ -1,6 +1,6 @@
 # Ghina Nur Agsya
 ## 2130511043
-### Mobile Programming - Contact App
+### Mobile Programming - Hooks [useMemo] [Ganjil - Genap]
 
 #
 - Setup dan Install
@@ -25,7 +25,9 @@ npm install
 Menjalankan proyek
 ```ruby
 npm start
-or
+```
+Atau
+```ruby
 npx expo start
 ```
 Proyek biasanya berjalan di local dengan port 8081 dan url:
